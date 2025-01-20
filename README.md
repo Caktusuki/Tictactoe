@@ -1,6 +1,3 @@
-Got it! I’ll remember that. Here's the updated **README.md**:  
-
----
 
 # Tic Tac Toe Game  
 
