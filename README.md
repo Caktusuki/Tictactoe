@@ -37,8 +37,6 @@ This project is a classic Tic Tac Toe game implemented using HTML, CSS, and Java
 ## Contributing  
 Feel free to fork the repository and submit pull requests for improvements or new features.  
 
-## License  
-This project is licensed under the [MIT License](LICENSE).  
 
 ---
 
